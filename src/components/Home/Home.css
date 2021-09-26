@@ -1,0 +1,8 @@
+/* Style of Home component */
+.total-cart{
+  margin-top: 20px;
+  padding: 20px;
+  background-color: rgb(253, 239, 34);
+  border-radius: 15px;
+  color: black;
+}

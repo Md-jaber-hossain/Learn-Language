@@ -10,6 +10,3 @@ Please, click here: [https://programmers-react-assignment-8.netlify.app/](https:
 * In the header section, the site includes team name and team creation budget. Picture of Programmers and details are shown in a cart.
 * After clicking the button, another cart shows the total salary, total added and name of the programmers.
 
-
-
-# the-superhero-direction-Md-jaber-hossain

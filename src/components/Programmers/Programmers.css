@@ -1,0 +1,31 @@
+/* Each cart style */
+.cart {
+    padding: 5px;
+    margin: 15px;
+    border: 1px solid rgb(221, 224, 36);
+    height: 375px;
+    border-radius: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background-color: rgb(240, 241, 212);
+  }
+  /* cart img style */
+  .user-image img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-top: 10px;
+  }
+  .user-image{
+    text-align: center;
+  }
+  /* cart body style */
+  .card-body{
+    margin-top: 15px;
+    padding: 0px 30px;
+    height: 185px;
+  }
+  /* button style */
+  .button-style{
+    text-align: center;
+  }
+  

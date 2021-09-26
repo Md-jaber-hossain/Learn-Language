@@ -1,0 +1,110 @@
+[
+    {
+        "key": 1,
+        "name": "Dennis Ritchie",
+        "position": "computer scientist",
+        "age": 80,
+        "country": "America",
+        "salary": 120000,
+        "img": "https://s.yimg.com/uu/api/res/1.2/vhlWyAqI9PmWbUBNNrywzg--~B/aD0yNTA7dz0xOTM7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/10/dennis-ritchie.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Linus Torvalds",
+        "position": "software engineer",
+        "age": 50,
+        "country": "America",
+        "salary": 270000,
+        "img": "https://cdn.britannica.com/w:400,h:300,c:crop/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg"
+    },
+    {
+        "key": 3,
+        "name": "Bjarne Stroustrup",
+        "position": "computer programmer",
+        "age": 75,
+        "country": "Denmark",
+        "salary": 128000,
+        "img": "https://ieeecs-media.computer.org/wp-media/2018/08/28174850/Bjarne-Stroustrup-250x300.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Tim Berners-Lee",
+        "position": "Web Engineer",
+        "age": 64,
+        "country": "England",
+        "salary": 830000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg"
+    },
+    {
+        "key": 5,
+        "name": "Brian Kernighan",
+        "position": "Software Developer",
+        "age": 87,
+        "country": "Canada",
+        "salary": 7650000,
+        "img": "https://static.wixstatic.com/media/7a497f_519ee0171f094715b7ef17f0fbb0aa8a~mv2.jpg/v1/fill/w_994,h_994,al_c,q_90/7a497f_519ee0171f094715b7ef17f0fbb0aa8a~mv2.jpg"
+    },
+    {
+        "key": 6,
+        "name": "Donald Knuth",
+        "position": "computer scientist",
+        "age": 90,
+        "country": "America",
+        "salary": 9800000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/KnuthAtOpenContentAlliance.jpg"
+    },
+    {
+        "key": 7,
+        "name": "Ken Thompson",
+        "position": "Ethical Hacker",
+        "age": 70,
+        "country": "America",
+        "salary": 940000,
+        "img": "https://www.computerhope.com/people/pictures/ken_thompson.jpg"
+    },
+    {
+        "key": 8,
+        "name": "Guido van Rossum",
+        "position": "computer programmer",
+        "age": 55,
+        "country": "Netherlands",
+        "salary": 930000,
+        "img": "https://gvanrossum.github.io/images/guido-headshot-2019.jpg"
+    },
+    {
+        "key": 9,
+        "name": "James Gosling",
+        "position": "Computer Programmer",
+        "age": 60,
+        "country": "Canada",
+        "salary": 300000,
+        "img": "https://venturebeat.com/wp-content/uploads/2011/08/james-gosling.jpg?resize=400%2C273&strip=all"
+    },
+    {
+        "key": 10,
+        "name": "Bill Gates",
+        "position": "Computer Programmer",
+        "age": 80,
+        "country": "America",
+        "salary": 990000,
+        "img": "https://www.biography.com/.image/t_share/MTgwMTc5MTIxNDE2OTcxNjA4/gettyimages-1165301142.jpg"
+    },
+    {
+        "key": 11,
+        "name": "Niklaus Wirth",
+        "position": "Software Engineer",
+        "age": 63,
+        "country": "Switzerland",
+        "salary": 700000,
+        "img": "https://www.freetechbooks.com/uploads/1466562622-niklaus_wirth.jpg"
+    },
+    {
+        "key": 12,
+        "name": "Ada Lovelace",
+        "position": "Computer Programmer",
+        "age": 40,
+        "country": "England",
+        "salary": 860000,
+        "img": "https://www.biography.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgwODMyNTMzODUwNjI5NDgw/mary-shelley.jpg"
+    }
+]
