@@ -45,14 +45,16 @@ const Home = () => {
                             ))}
                         </div>
                     </div>
-                    <div className="col-md-3 right-side">
+                    <div className="col-md-3">
                         <div className="row">
                             {/* show the programmers added value and total salary of programmers */}
-                            <div className="total-cart">
+                            <div className="total-cart bg-warning">
                                 <h5><i className="fas fa-user-plus"></i> Programmers Added: {cart.length}</h5>
                                 <h5><i className="fas fa-donate"></i> Total Cost: $ {total}</h5>
                                 <hr />
-                                {/* From the cart array value, calls the cartName component to get the name of programmer when click on button */}
+                            </div>
+                            {/* From the cart array value, calls the cartName component to get the name of programmer when click on button */}
+                            <div>
                                 {
                                     cart.map(cart => (
                                         <CartNames

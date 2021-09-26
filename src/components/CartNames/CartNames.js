@@ -5,8 +5,8 @@ const CartNames = (props) => {
     const {name} = props.programmer;
     return (
         // show the cart name when click on button
-        <div className="text-center">
-            {name},
+        <div className="text-center total-cart bg-warning">
+            <h5>{name}</h5>
         </div>
     );
 };

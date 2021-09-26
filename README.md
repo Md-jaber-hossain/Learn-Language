@@ -2,9 +2,9 @@
 
 ## Live Site Link
 
-Please, click here: [https://programmers-react-assignment-8.netlify.app/](https://programmers-react-assignment-8.netlify.app/)
+Please, click here: [Legendary-Programmers-Team-Site](https://programmers-react-assignment-8.netlify.app/)
 
-### Description of Legendary Programmers Team
+## Description of Legendary Programmers Team
 
 * Legendary programmers are listed in the single-page application (SPA)
 * In the header section, the site includes team name and team creation budget. Picture of Programmers and details are shown in a cart.

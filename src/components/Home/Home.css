@@ -4,5 +4,12 @@
   padding: 20px;
   background-color: rgb(253, 239, 34);
   border-radius: 15px;
-  color: black;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+/* body background image */
+body {
+  background: url(https://image.freepik.com/free-vector/digital-white-background-with-binary-code-numbers_1017-25335.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
 }
