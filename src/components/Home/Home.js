@@ -18,6 +18,7 @@ const Home = () => {
     const [cart, setCart] = useState([]);
 
     const handleAddToCart = (programmer) => {
+        programmer.isAdded = true;
         const newAddedprogrammer = [...cart, programmer];
         setCart(newAddedprogrammer);
     };
@@ -49,12 +50,13 @@ const Home = () => {
                             {/* show the programmers added value and total salary of programmers */}
                             <div className="total-cart">
                                 <h5><i className="fas fa-user-plus"></i> Programmers Added: {cart.length}</h5>
-                                <h5><i class="fas fa-donate"></i> Total Cost: $ {total}</h5>
+                                <h5><i className="fas fa-donate"></i> Total Cost: $ {total}</h5>
                                 <hr />
                                 {/* From the cart array value, calls the cartName component to get the name of programmer when click on button */}
                                 {
                                     cart.map(cart => (
                                         <CartNames
+                                            key={cart.key}
                                             programmer={cart}>
                                         </CartNames>
                                     ))

@@ -21,13 +21,19 @@ const Programmers = (props) => {
           <h6><b>Salary:</b> {salary}</h6>
         </div>
         {/* click the button and calls the handleAddToCart function */}
-        <div className="button-style">
-          <button
-            onClick={() => props.handleAddToCart(props.programmer)}
-            className="btn btn-warning mb-3">
-            <i className="fas fa-cart-plus"></i> Add to Cart
-          </button>
-        </div>
+        {props.programmer.isAdded ? (
+          <div className="button-style">
+            <button className="btn btn-danger mb-3"><i className="fas fa-cart-plus"></i> Cart Added</button>
+          </div>
+        ) : (
+          <div className="button-style">
+              <button
+              onClick={() => props.handleAddToCart(props.programmer)}
+              className="btn btn-warning mb-3">
+              <i className="fas fa-cart-plus"></i> Add to Cart
+            </button>
+          </div>
+        )}
       </div>
     </div>
   );
